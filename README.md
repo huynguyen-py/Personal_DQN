@@ -30,6 +30,8 @@ score 281.78 avarage score 119.22 epsilon 0.01
 |  No running processes found                                                 |
 +-----------------------------------------------------------------------------+
 
+You need to change the path in the variable "baseUrl" in the file "\promotion\promotion-ui\src\apis\jsonPlaceholder.js" to match the path to promotion-storage, in order to send the request to get the object" promotions".
+
 ```
 
 # Tài liệu mô tả hoạt động
